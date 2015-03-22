@@ -1,10 +1,3 @@
-Variables
-* data is read into fields : testdata, testlable, traindata, trainlabel, testsubjectdata, trainsubjectdata</li>
-* testtraindata, testtrainlabel, testtrainSubject  hold the merged data sets</li>
-* features  lists the applicable names for testtraindata; and is applied to column names that match "mean" & "std" as listed below.
-* activities how activity names.
-* finaldataset holds the bound columns of  the merged datasets.
-* returned averages  contains the relevant averages written to tidy_data.txt  
 
 
 <H6>FEATURES</H6>
